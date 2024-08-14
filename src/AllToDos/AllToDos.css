@@ -1,0 +1,17 @@
+.to-do__list {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(2, 46%);
+    column-gap: 8%;
+    row-gap: 20px;
+    padding-bottom: 24px;
+}
+
+.to-do__li {
+    border: 1px solid #bafdfa;
+    padding: 10px;
+}
+
+/* .to-do__description {
+    max-width: 100%;
+} */

@@ -1,0 +1,17 @@
+.form__add {
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid #ffe5e5;
+}
+
+.form__add-date {
+    align-self: flex-start;
+}
+
+.form__add-submit {
+    margin: 0 auto;
+    background-color: #fdb3b3;
+    color: #fff;
+}
